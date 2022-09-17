@@ -1,0 +1,89 @@
+* {
+  margin: 0px;
+  padding:6px;
+}
+body {
+  margin: 0 auto;
+  width: 960px;
+background-color: whitesmoke;
+}
+.container {
+background-color:white ;
+margin-top: 20px;
+margin-bottom: 20px;
+}
+.mix {
+  padding-left: 30px;
+}
+img{
+  border-radius:50%;
+ 
+}
+.colo{
+  color:#6C63FE;
+  font-weight: bold;
+}
+.tit{
+  font-family: 'Times New Roman', Times, serif;
+font-size: 20px;
+  text-align: center;
+}
+.bold {
+  font-weight: bold;
+font-family: 'Times New Roman', Times, serif;
+font-size: 20px;
+}
+.format{font-family: 'Times New Roman', Times, serif;
+  font-size: 20px;
+
+}
+.nar{
+  font-family: 'Times New Roman', Times, serif;
+font-size: 20px;
+ font-style: oblique;
+}
+.tit2{ font-weight: bold;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 25px;
+  color:#6C63FE;
+}
+.lore {
+  font-size: 20px;
+}
+h4{
+  color:#6C63FE;
+  padding-left: 1px;
+  margin-bottom: 20px;
+  margin-top: 10px;
+}
+.un {
+  font-weight: bold;
+  font-size: 20px;
+}
+.squ {
+
+  border-left: solid 2px #6C63FF;
+  border-left-width: 9px;
+ margin-bottom: 10px;
+padding-left: 8px;
+}
+
+
+.checked {
+   color: gold;
+  }
+ li.squ  {list style :square;
+
+}
+.copy{
+  text-align: center;
+  color:#6C63FE;
+  font-size: 15px;
+  font-weight: 200p;
+  margin-top: 10px;
+
+}
+.t{ margin-top: 10px;
+
+
+}
